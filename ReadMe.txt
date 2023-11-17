@@ -1,0 +1,1 @@
+Zeynep Y›lmaz ﬁeker 22010310081Hocam sadece uygulamadan ç›k›nca yap›lacaklar› kaydetmiyor. Onun d›ﬂ›nda geri kalan özellikler çal›ﬂ›yor. Hocam proje dosyam› sizin bilgisayarda açamam›ﬂt›k ama benim bilgisayar›mda aç›l›yor. Videoda çal›ﬂt›€› ﬂekilde gösterdim hocam:ÖDEV V‹DEO L‹NK‹:https://1drv.ms/v/c/9d217077b7d6d97f/Ef2ZcngUsY5OtJ-pMm1P7qUBu2j_FaL2N2j4fuOPbkIkcg?e=q7MsCY
