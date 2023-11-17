@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="gorselprogramlamaodev.MainPage">
+
+    <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center" >
+        <Image Source="dotnet_bot.png" HeightRequest="350" WidthRequest="300" />
+        <Label Text="Zeynep Yılmaz Şeker" HorizontalOptions="Center" FontSize="Large" Padding="10" />
+        <Label Text="Bartın Üniversitesi Bilgisayar Mühendisliği" HorizontalOptions="Center" FontSize="Medium"/>
+        <Label Text="ÖDEV-1" HorizontalOptions="Center" FontSize="Medium"/>
+
+    </VerticalStackLayout>
+
+</ContentPage>
